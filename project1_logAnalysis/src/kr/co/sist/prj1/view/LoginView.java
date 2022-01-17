@@ -47,8 +47,8 @@ public class LoginView extends JFrame {
 
 		// 디자인
 		// 아이콘 생성
-		ImageIcon icon = new ImageIcon("E:/dev/workspace/project1_logAnalysis/image/sist.png");
-		ImageIcon ii = new ImageIcon("E:/dev/workspace/project1_logAnalysis/image/background.png");
+		ImageIcon icon = new ImageIcon("project1_logAnalysis/image/sist.png");
+		ImageIcon ii = new ImageIcon("project1_logAnalysis/image/background.png");
 
 		
 		// 라벨 생성
